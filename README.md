@@ -1,4 +1,4 @@
-### Hi there 👋, Hi there 👋, my name is Hossam Ezzeldin
+### Hi there 👋, my name is Hossam Ezzeldin
 #### Ai -Software engineer
 ![Ai -Software engineer](https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif)
 
@@ -17,5 +17,5 @@
 - 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Hossam Ezz El Din/)  
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/Hossam Ezz El Din/)  
 
