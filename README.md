@@ -1,12 +1,17 @@
 ### Hi there 👋, Hi there 👋, my name is Hossam Ezzeldin
 #### Ai -Software engineer
-![Ai -Software engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Ai -Software engineer](https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif)
 
 🔭 I’m currently working on Deep Learning & Machine Learning.
+
 👯 I have a strong interest in Data Science and Artificial Intelligence.
+
 🌟  Main languages: Python , C/C++ , Java.
+
 🌱 I’m currently learning  about Computer Vision , NLP and new technologies.
+
 💬 Ask me about anything, I love to help!
+
 📫 How to reach me >> Hossam.ahmedezzeldin@gmail.com
 
 - 
