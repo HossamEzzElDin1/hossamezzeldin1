@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Hossam Ezzeldin
+### Hi there 👋, My Name is Hossam Ezzeldin
 #### Ai -Software engineer
 ![Ai -Software engineer](https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif)
 
